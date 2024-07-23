@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python and some tools to work with data, such as Pandas, Numpy, Sklearn, etc. <br><br>I've done a web-GIS (Geographic Information System) using R in my final paper (to be a Geoprocessing Technical). It was a huge challenge because I have no experience with that language. However, I did it and proved to myself that I can do whatever I want to, I "just" have to learn (and I really love to learn new things). <br>With this experience, I realize how important mentors are in my life, especially when working with and studying tech. Now, at my graduation, I want to continue challenging myself, learn a lot and work on important research.<br><br>🎲 Fun fact: I love to play Teamfight Tatics! It's a strategic card game, like auto chess. Of course, I love my cats as well.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python and some tools to work with data, such as Pandas, Numpy, Sklearn, etc. <br><br>I've done a web-GIS (Geographic Information System) using R in my final paper (to be a Geoprocessing Technician). It was a huge challenge because I have no experience with that language. However, I did it and proved to myself that I can do whatever I want to, I "just" have to learn (and I really love to learn new things). <br>With this experience, I realize how important mentors are in my life, especially when working with and studying tech. Now, at my graduation, I want to continue challenging myself, learn a lot and work on important research.<br><br>🎲 Fun fact: I love to play Teamfight Tatics! It's a strategic card game, like auto chess. Of course, I love my cats as well.</p>
 
 ###
 
