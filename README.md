@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vitória Marca Santa Lucia and I'm a Computer Science student at Universidade Federal de Pelotas, based on Brazil.</p>
+<p align="left">My name is Vitória Marca Santa Lucia and I'm a Computer Science student at Universidade Federal de Pelotas, Brazil.</p>
 
 ###
 
