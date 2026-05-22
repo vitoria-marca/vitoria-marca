@@ -31,17 +31,6 @@ Currently, I am heavily focused on <b>Software Engineering and Database Architec
 
 ###
 
-<h2 align="left">Academic Research</h2>
-
-<p align="left">
-I also had a recent experience as an <b>Undergraduate Research Fellow</b> at <b>ViTech (Video Technology Research Group)</b>. My research focused on:
-<br><br>
-• The coding process of omnidimensional videos using <b>Versatile Video Coding (VVC)</b>.<br>
-• Developing strategies to improve video coding processes regarding <b>time and memory efficiency</b>.
-</p>
-
-###
-
 <h2 align="left">Tech Stack & Competencies</h2>
 
 <p align="left">
